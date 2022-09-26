@@ -1,0 +1,1 @@
+carousel.appendChild(slide);
